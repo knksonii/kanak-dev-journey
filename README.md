@@ -1,5 +1,5 @@
 # kanak-dev-journey
 This is my first repository
-author kanak 
+author kanak
 <br>
-okay I'm trying to understand github
+I'm trying to understand git
